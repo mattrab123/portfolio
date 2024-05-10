@@ -17,7 +17,7 @@ const Home = ({ toggleSkills, toggleConnect }) => {
             <FontAwesomeIcon icon={faCode} className={"home-icons"} title={"Show Skills"} onClick={toggleSkills}/>
             <p className="col2-p">Show Skills</p>
           </div>
-          <a className="col2-item" href="https://github.com/mattrab123">
+          <a className="col2-item" href="https://github.com/mattrab123/CV/raw/main/Matthew_Watkeys_-_Software_Engineer.pdf">
             <FontAwesomeIcon icon={faFileLines} className={"home-icons"} title={"My CV"} />
             <p className="col2-p">My CV</p>
           </a>

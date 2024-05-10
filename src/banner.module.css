@@ -14,3 +14,9 @@
     border: 1px solid #61dafb;
     border-radius: 30px;
 }
+
+:local(.backButton) {
+    position: absolute;
+    left: 5vh;
+    cursor: pointer;
+}
