@@ -1,9 +1,5 @@
 import React from "react";
-// import * as bannerStyle from "./banner.module.css";
-// import bannerStyle from "./banner.module.css";
-// import {bannerStyle} from "./banner.module.css";
-// import "./banner.module.css";
-import classes from "./banner.module.css";
+import classes from "./css/banner.module.css";
 import { faChevronLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 

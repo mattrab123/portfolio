@@ -1,4 +1,4 @@
-import './App.css';
+import './css/App.css';
 import Banner from './banner';
 import Skills from './skills';
 import Home from './home';

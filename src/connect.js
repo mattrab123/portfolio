@@ -1,6 +1,6 @@
 import React from "react";
-import './subPage.css';
-import './App.css';
+import './css/subPage.css';
+import './css/App.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";

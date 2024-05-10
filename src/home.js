@@ -1,6 +1,6 @@
 import React from "react";
 import logo from './data/me2.PNG';
-import './App.css';
+import './css/App.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCode } from "@fortawesome/free-solid-svg-icons";
 import { faCommentDots } from "@fortawesome/free-regular-svg-icons";

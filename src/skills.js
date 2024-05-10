@@ -1,5 +1,5 @@
-import './subPage.css';
-import './App.css';
+import './css/subPage.css';
+import './css/App.css';
 import React from 'react';
 import skillsObj from './data/skills.json';
 
