@@ -1,0 +1,83 @@
+.subPageStyle {
+    padding-top: 200px;
+    background-color: #282c34;
+}
+
+.connectPageStyle {
+    padding-top: 200px;
+    background-color: #282c34;
+    height: 100vh;
+}
+
+.skill-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.skill-card {
+    width: calc(40% - 20px);
+    /* margin-bottom: 20px; */
+    margin: 20px 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #f9f9f9;
+    box-sizing: border-box;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+
+@media (max-width: 768px) {
+    .skill-card {
+      width: calc(50% - 10px); /* Adjust width for smaller screens */
+    }
+  }
+
+.skill-logo {
+    width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.skill-name {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.sub-skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.sub-skill {
+    background-color: #e0e0e0;
+    color: #333;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.pageHeadingStyle {
+    color: #61dafb;
+}
+
+.connectComponent {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: repeat(3, 1fr);
+    flex-wrap: wrap;
+    justify-content: center;
+    top: 20%;
+    position: relative;
+}
+
+.connectGrid {
+    margin: 10px;
+    color: white;
+    font-size: 200px;
+}
+
+

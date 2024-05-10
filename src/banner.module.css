@@ -1,0 +1,16 @@
+
+:local(.bannerStyle) {
+    grid-row: mb-4;
+    position: fixed;
+    top: 0;
+    background-color: #282c34;
+    width: 99.83%;
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 0;
+    color: #61dafb;
+    border: 1px solid #61dafb;
+    border-radius: 30px;
+}

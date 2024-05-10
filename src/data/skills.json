@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Java",
+        "skillLogo": "javaLogo.PNG",
+        "subSkills": [
+            "Java", "Spring Framework", "Spring Boot", "Spring MVC", "MVC(Model View Controller)", "Gradle", "Intellij", "JUnit", "Freemarker", "Mockito", "REST API"
+        ]
+    },
+    {
+        "name": "JavaScript",
+        "skillLogo": "JSLogo.PNG",
+        "subSkills": [
+            "JavaScript", "JQuery", "HTML", "CSS", "JSON", "REST", "AJAX", "Node.js", "React", "VSCode"
+        ]
+    },
+    {
+        "name": "Other Technical Skills",
+        "skillLogo": "softwareLogo.png",
+        "subSkills": [
+            "C#", "ASP.NET", ".NET", "Visual Studio", "MySQL", "MSSQL", "OracleSQL", "Microservice Architecture", "Docker", "Apache", "Linux", "TDD", "BDD", "Git", "SVN", "Gitlab CI", "Jenkins", "Integration Testing"
+        ]
+    },
+    {
+        "name": "Soft Skills",
+        "skillLogo": "softSkillsLogo.PNG",
+        "subSkills": [
+            "Communication", "Teamwork", "Organisation", "Team-building", "Collaboration", "Problem Solving", "Time Management", "Adaptability", "Work Ethic", "Public Speaking", "Project Management", "People Management", "Reliability"
+        ]
+    }
+]
