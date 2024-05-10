@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8bb65475.css",
+    "main.js": "/portfolio/static/js/main.4ce0994c.js",
+    "static/js/453.1fa56f78.chunk.js": "/portfolio/static/js/453.1fa56f78.chunk.js",
+    "static/media/me2.PNG": "/portfolio/static/media/me2.6217879fdfeb9b0be79f.PNG",
+    "static/media/javaLogo.PNG": "/portfolio/static/media/javaLogo.b9a1d8b9dec9a3a89f91.PNG",
+    "static/media/softSkillsLogo.PNG": "/portfolio/static/media/softSkillsLogo.68a7ee94f4be0e714b40.PNG",
+    "static/media/softwareLogo.png": "/portfolio/static/media/softwareLogo.4e4164de220607dd5ac6.png",
+    "static/media/JSLogo.PNG": "/portfolio/static/media/JSLogo.1b5962d645a7fe639720.PNG",
+    "index.html": "/portfolio/index.html",
+    "main.8bb65475.css.map": "/portfolio/static/css/main.8bb65475.css.map",
+    "main.4ce0994c.js.map": "/portfolio/static/js/main.4ce0994c.js.map",
+    "453.1fa56f78.chunk.js.map": "/portfolio/static/js/453.1fa56f78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bb65475.css",
+    "static/js/main.4ce0994c.js"
+  ]
+}
